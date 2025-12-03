@@ -1,4 +1,4 @@
-# CIS3200 Course Project - Group 6
+# CIS3610 Course Project - Group 6
 ## Dylan Snyder, Omar Martinez, Richard Lemus
 
 
