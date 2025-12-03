@@ -1,4 +1,5 @@
 # CIS3200 Course Project - Group 6
+## Dylan Snyder, Omar Martinez, Richard Lemus
 
 
 ## Link to WireFrame
